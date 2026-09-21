@@ -1,1 +1,1 @@
-# PL_Real_Estate_Mortgage_Analysis
+# Stopy, ceny i dostępność: analiza polskiego rynku nieruchomości i kredytów hipotecznych (2016–2025)
